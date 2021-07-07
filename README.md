@@ -2,7 +2,7 @@
 
 ## This repository contains a Jupyter Notebook  
 
-You can upload this to [https://research.google.com/colaboratory/](Google Colab)
+You can upload this to (https://research.google.com/colaboratory/)[Google Colab] and execute from there too.
 
 This colab notebook is used to download data from Github published by the JHU on COVID Confirmed / Recovered / Deatchs , Vaccinations data into easy consumable files
 
